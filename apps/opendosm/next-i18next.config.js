@@ -18,6 +18,7 @@ const namespaces = [
   "dashboard-life-expectancy",
   "dashboard-manufacturing-statistics",
   "dashboard-producer-prices",
+  "dashboard-padu-tracker",
   "dashboard-wholesale-retail",
   "division",
   "opendosm-home",

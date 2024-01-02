@@ -36,6 +36,12 @@ export const getStaticProps: GetStaticProps = withi18n(
           route: routes.KAWASANKU,
         },
         {
+          id: "dashboard-padu-tracker",
+          name: "padu-tracker",
+          division: "bipd",
+          route: routes.PADU_TRACKER,
+        },
+        {
           id: "dashboard-population",
           name: "population",
           division: "bppd",

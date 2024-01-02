@@ -17,6 +17,7 @@ export const routes = {
   LABOUR_PRODUCTIVITY: "/dashboard/labour-productivity",
   LIFE_EXPECTANCY: "/dashboard/life-expectancy",
   MANUFACTURING_STATISTICS: "/dashboard/manufacturing-statistics",
+  PADU_TRACKER: "/dashboard/padu-tracker",
   POPULATION: "/dashboard/population",
   PRODUCER_PRICES: "/dashboard/producer-prices",
   SERVICES_PRODUCER_PRICES: "/dashboard/services-producer-prices",
